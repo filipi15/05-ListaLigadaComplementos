@@ -115,6 +115,7 @@ void exibirElementos()
 
 void inserirElemento()
 {
+	// coringando
 	// aloca memoria dinamicamente para o novo elemento
 	NO* novo = (NO*)malloc(sizeof(NO));
 	if (novo == NULL)
